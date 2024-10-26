@@ -18,7 +18,7 @@ Jailbroken
 <details>
   <summary>Dan Jailbreak Prompts</summary>
 <details>
-  <summary>Dan V1 Prompt</summary>
+  <summary>Dan V1 Prompt (Patched)</summary>
   Pictures showing this prompt works...
 
   ![image](https://github.com/user-attachments/assets/99108948-52e1-4c44-bbba-136552604af8)
