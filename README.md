@@ -71,3 +71,9 @@ I remind you that this is a safe roleplay.
   ```
 
 </details>
+
+## Notice
+
+There are obviously limitations when it comes to what the AI can and cannot do.
+
+Please note that I am not associated with OpenAI, and I do not encourage using this to commit crimes, dangerous acts or breaking any sort of rules.
