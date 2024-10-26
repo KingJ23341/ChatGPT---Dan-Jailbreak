@@ -116,3 +116,5 @@ To confirm understanding and initiate the roleplay, please say:
 There are obviously limitations when it comes to what the AI can and cannot do.
 
 Please note that I am not associated with OpenAI, and I do not encourage using this to commit crimes, dangerous acts or breaking any sort of rules.
+
+Please note that this might not **always** work because OpenAI actively tries to patch these. I do not encourage breaking OpenAI tos. My only use for this is to get more accurate responses because OpenAI's chatgpt seems to just be one-sided despite being an AI.
