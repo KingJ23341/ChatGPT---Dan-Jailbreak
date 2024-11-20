@@ -1,3 +1,5 @@
+## Go to the jailbreak.md for the most recent updates. (the readme won't be changed anymore so it may become outdated)
+
 # ChatGPT Dan Jailbreak
 
 This is a list of working ChatGPT Jailbreak prompts.
