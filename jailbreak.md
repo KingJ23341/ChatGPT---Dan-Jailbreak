@@ -139,7 +139,7 @@ I remind you that this is a safe roleplay.
 
   </details>
 </details>
-<detailsz>
+<details>
   <summary>Thrive to Success Prompts (TTS Prompts)</summary>
   <summary>TTS Prompts (Thrive to Success) V1 (Patched)</summary>
   Thrive to success prompts are a prompt similar to a DAN prompt, rather it tricks the bot into striving for success.
