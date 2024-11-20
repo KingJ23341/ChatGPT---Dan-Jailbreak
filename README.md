@@ -1,5 +1,7 @@
 ## Go to the jailbreak.md for the most recent updates. (the readme won't be changed anymore so it may become outdated)
 
+It can be found [here](https://github.com/KingJ23341/ChatGPT---Dan-Jailbreak/blob/main/jailbreak.md).
+
 # ChatGPT Dan Jailbreak
 
 This is a list of working ChatGPT Jailbreak prompts.
