@@ -138,9 +138,8 @@ I remind you that this is a safe roleplay.
 ```
 
   </details>
-  
 </details>
-
+<details>
   <summary>TTS Prompts (Thrive to Success) V1 (Patched)</summary>
   Thrive to success prompts are a prompt similar to a DAN prompt, rather it tricks the bot into striving for success.
 
