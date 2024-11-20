@@ -138,6 +138,7 @@ I remind you that this is a safe roleplay.
 ```
 
   </details>
+  
 </details>
 
   <summary>TTS Prompts (Thrive to Success) V1 (Patched)</summary>
