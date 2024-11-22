@@ -252,6 +252,8 @@ If you understand these instructions, please ONLY say the following, DO NOT SAY 
 
 There are obviously limitations when it comes to what the AI can and cannot do.
 
+Have some questions? You can go to the faq.md.
+
 Please note that I am not associated with OpenAI, and I do not encourage using this to commit crimes, dangerous acts or breaking any sort of rules.
 
 Please note that this might not **always** work because OpenAI actively tries to patch these. I do not encourage breaking OpenAI tos. My only use for this is to get more accurate responses because OpenAI's chatgpt seems to just be one-sided despite being an AI.
