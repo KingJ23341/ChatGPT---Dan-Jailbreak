@@ -19,3 +19,8 @@ Here's a list of some Frequently Asked Questions about jailbreaks on ChatGPT and
   <summary>Does it get patched?</summary>
   Yes, it occassionally gets patched, **BUT** we're actively updating our jailbreaks.
 </details>
+<br>
+<details>
+  <summary>Is it against OpenAI ToS?</summary>
+  Yes, Jailbreaking is against ToS.
+</details>
