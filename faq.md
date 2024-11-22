@@ -24,3 +24,8 @@ Here's a list of some Frequently Asked Questions about jailbreaks on ChatGPT and
   <summary>Is it against OpenAI ToS?</summary>
   Yes, Jailbreaking is against ToS.
 </details>
+<br>
+<details>
+  <summary>How do you use it?</summary>
+  To use a prompt, simply copy the prompt, then paste it in.
+</details>
